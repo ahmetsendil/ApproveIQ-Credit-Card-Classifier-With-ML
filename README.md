@@ -9,7 +9,7 @@ This project focuses on predicting whether a credit card application will be app
 The dataset used in this project is from Kaggle's **Credit Card Approval Prediction** competition. It includes both categorical and numerical variables that describe applicants' financial and personal status.
 
 - Features include: `Age`, `Income`, `Employment`, `Education`, `Credit Score`, etc.
-- Target variable: `TARGET` (1 if approved, 0 otherwise)
+- Target variable: `TARGET` (1 if approved, 0 rejected)
 
 ## 🔍 Objectives
 
