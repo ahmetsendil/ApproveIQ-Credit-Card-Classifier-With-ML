@@ -47,21 +47,35 @@ Hyperparameter tuning was performed using **Bayesian Optimization (BayesSearchCV
 
 - The best-performing model was **[LightGBM,XGBoost]**, achieving:
 **XGBoost Classifier**:
+  
 Training Time: 1.6224 seconds
+
 Prediction Time: 0.0717 seconds
+
 Accuracy: 1.0
+
 Recall: 1.0
+
 Precision: 1.0
+
 F1 Score: 1.0
+
 AUC: 1.0
 
 **LightGBM Classifier**:
+
 Training Time: 2.65 seconds
+
 Prediction Time: 0.3193 seconds
+
 Accuracy: 1.0
+
 Recall: 1.0
+
 Precision: 1.0
+
 F1 Score: 1.0
+
 AUC: 1.0
 
 Model performance was visualized with confusion matrices and ROC curves.
