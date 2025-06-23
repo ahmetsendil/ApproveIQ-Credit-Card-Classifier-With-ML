@@ -97,6 +97,7 @@ Model performance was visualized with confusion matrices and ROC curves.
 ## 💡 Author
 
 Developed by [Ahmet Şendil](https://www.kaggle.com/ahmetsendil) (https://www.kaggle.com/code/ahmetsendil/approveiq-credit-card-classifier-with-ml)
+Dataset Link : https://www.kaggle.com/datasets/ahmetsendil/credit-card-data-set/settings
 
 ---
 
